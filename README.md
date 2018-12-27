@@ -3,6 +3,4 @@ NCGEARS FRC LabView code for the 2017-18 school year
 
 - Folder "QBot2018" is the robot code
 
-- Folder "Files for Future Use" contains a few VIs that were created but not used during the 2017-18 school year, and could possibly be used in later years
-
-- File "Block Colors" contains the RGB values of colors that we used for custom VI Icons
+- Folder "QbotDash2018" is the dashboard code
